@@ -1,0 +1,551 @@
+body{
+	margin: 0px;
+}
+.frame1{
+	height: 20px;
+	background-color:darkgray;
+}
+.text1{
+	font-size: 14px;
+}
+.text2{
+	font-size: 14px;
+	float: right;
+	vertical-align: middle;
+}
+.frame2{
+	height: 40px;
+	background-color:#404040;
+	position: relative;
+}
+.frame3{
+	height: 468px;
+	overflow: auto;
+}
+.frame4{
+	height: 60px;
+	position: relative;
+	background-color: #f0f0f0;
+}
+.f1{
+	position: absolute;
+	left: 20px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+}
+.f2{
+	position: absolute;
+	left: 100px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+}
+.f3{
+	position: absolute;
+	right: 100px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+}
+.f4{
+	position: absolute;
+	right: 20px;
+	top: 5px;
+	width: 40px;
+	height: 40px;
+}
+.text3{
+	font-size: 18px;
+	font-family: "microsoft yahei";
+	color: white;
+	line-height: 40px;
+}
+.img1{
+	line-height: 50px;
+	position: absolute;
+	right: 20px;
+}
+.img2{
+	line-height: 50px;
+	position: absolute;
+	right: 60px;
+}
+.ruan{
+	background-color:#f0f0f0;
+	height: 40px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: relative;
+	border-bottom: lightgray solid 0.02px;
+}
+.ruan1{
+	height: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.ruan2{
+	font-weight: bold;
+	position: absolute;
+	top: 5px;
+}
+.ruan3{
+	color: dimgray;
+	position: absolute;
+	bottom: 5px;
+	font-size: smaller;
+}
+.ruan4{
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	font-weight: lighter;
+	color: lightgray;
+	font-size: smaller;
+}
+.ruan5{
+	position: absolute;
+	top: 1px;
+	left: 39px;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	background-color: red;
+}
+.ruan6{
+	position:absolute;
+	left: 44px;
+	top: 1px;
+	color: white;
+	font-size: 12px;
+}
+.other{
+	background-color:white;
+	height: 40px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	position: relative;
+	border-bottom: lightgray solid 0.02px;
+}
+.f5{
+	position: absolute;
+	top: 2px;
+	left: 37px;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	background-color: red;
+}
+.f6{
+	position:absolute;
+	left: 42px;
+	top: 2px;
+	color: white;
+	font-size: 12px;
+}
+.f7{
+	position: absolute;
+	top: 5px;
+	right: 116px;
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background-color: red;
+}
+.tubiao{
+	position: absolute;
+	top: 25px;
+	right: 15px;
+}
+.dingyue{
+	position: absolute;
+	top: 3px;
+	left: 45px;
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background-color: red;
+}
+.right{
+	width: 10px;
+	position: absolute;
+	top: 60px;
+	right: 2px;
+	font-size: 10px;
+	color: gray;
+	text-align: center;
+}
+.tf1{
+	margin-left: 10px;
+	width: 290px;
+	height: 40px;
+	border-bottom: lightgray solid 0.5px;
+	position: relative;
+}
+.tf11{
+	margin-left: 10px;
+	width: 290px;
+	height: 40px;
+	position: relative;
+}
+.tf0{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+.tf00{
+	position: absolute;
+	top: 3px;
+	right: 2px;
+	width: 7px;
+	height: 7px;
+	border-radius: 50%;
+	background-color: red;
+}
+.tf2{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 5px;
+}
+.tf3{
+	position: absolute;
+	top: 7.5px;
+	left: 2.5px;
+}
+.tf4{
+	position: absolute;
+	top: 10px;
+	left: 40px;
+	font-family: "microsoft yahei";
+	font-size: 15px;
+	color: black;
+	text-decoration: none;
+}
+.tf5{
+	height: 15px;
+	background-color: lightgray;
+	position: relative;
+}
+.tf6{
+	position:absolute ;
+	left: 10px;
+	font-size: 6px;
+	line-height: 15px;
+	color: dimgray;
+}
+.foot{
+	height: 40px;
+	background-color: lightgray;
+}
+.foot1{
+	text-align: center;
+	line-height: 40px;
+	color: dimgray;
+}
+.mf1{
+	margin-left: 10px;
+	width: 290px;
+	height: 60px;
+	position: relative;
+}
+.mf2{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 5px;
+}
+.mf3{
+	position: absolute;
+	top: 10px;
+	left: 60px;
+	font-family: "microsoft yahei";
+	font-size: 15px;
+}
+.mf4{
+	position: absolute;
+	bottom: 10px;
+	left: 60px;
+	font-family: "microsoft yahei";
+	font-size: 12px;
+	color: darkgray;
+}
+.mf5{
+	position: absolute;
+	right: 5px;
+	top: 20px;
+}
+.mf6{
+	width: 290px;
+	height: 40px;
+	position: relative;
+	margin-left: 10px;
+}
+.mf7{
+	width: 300px;
+	height: 40px;
+	position: relative;
+	border-bottom: lightgray solid 0.5px;
+	margin-left:10px ;
+}
+.mf8{
+	position: absolute;
+	top: 8px;
+	left: 5px;
+}
+.mf9{
+	position: absolute;
+	top: 10px;
+	font-size: 15px;
+	left: 45px;
+}
+.mf10{
+	height:106px;
+	background-color:lightgray ;
+}
+.ct1{
+	position: absolute;
+	left:50px;
+	line-height: 40px;
+	color: white;
+}
+.ct2{
+	position: absolute;
+	left: 36px;
+	line-height: 40px;
+	color: black;
+	font-size: 22px;
+}
+.ct3{
+	position: absolute;
+	right:15px;
+	top: 7px;
+}
+.frame5{
+	height: 473px;
+	background-color: #f0f0f0;
+	overflow: auto;
+}
+.frame6{
+	height: 35px;
+	border-top: darkgray solid 0.05px;
+	position: relative;
+}
+.i1{
+	position: absolute;
+	top: 6px;
+	left: 10px;
+}
+.i2{
+	top: 0px;
+	height: 32px;
+	width: 190px;
+	position: absolute;
+	left: 45px;
+	border-bottom: lightgray solid 1px;
+}
+.i3{
+	position: absolute;
+	top: 6px;
+	right:50px;
+}
+.i4{
+	position: absolute;
+	top: 5px;
+	right: 10px;
+}
+.ct4{
+	height: 12px;
+}
+.ct5{
+	position: absolute;
+	height: 17px;
+	width: 120px;
+	border-radius: 3px;
+	left: 100px;
+	background-color: lightgray;
+	display: flex;
+	justify-content: center;
+}
+.ct6{
+	color: white;
+	font-size: 12px;
+}
+.ct7{
+	height: 30px;
+	position: relative;
+}
+.ct8{
+	position: absolute;
+	left: 5px;
+}
+.ct9{
+	height: 17px;
+	position: relative;
+}
+.ct10{
+	position: absolute;
+	left: 44px;
+	font-size: 30px;
+	color: white;
+	top: -9px;
+}
+.ct11{
+	position: absolute;
+	left: 49px;
+	border: white solid 2px;
+	background-color: white;
+	border-radius: 3px;
+	height: 26px;
+	width: 100px;
+}
+.ct12{
+	position: absolute;
+	font-size: 15px;
+	left: 52px;
+}
+.ct13{
+	position: absolute;
+	right: 5px;
+}
+.ct14{
+	position: absolute;
+	right: 45px;
+	font-size: 29px;
+	color:#33ff00;
+	top: -8px;
+}
+.ct15{
+	position: absolute;
+	right: 49px;
+	border: #33FF00 solid 2px;
+	background-color: #33ff00;
+	border-radius: 3px;
+	height: 26px;
+	width: 26px;
+}
+.ct16{
+	position: absolute;
+	font-size: 15px;
+	right: 59px;
+	line-height: 30px;
+}
+.bao1{
+	position: absolute;
+	right: 45px;
+}
+.bao2{
+	position: absolute;
+	left: 45px;
+}
+.ct17{
+	height: 17px;
+}
+.frame7{
+	height: 508px;
+	background-color: #f0f0f0;
+	overflow: auto;
+}
+.pmain1{
+	height: 280px;
+	width: 320px;
+	position: relative;
+}
+.pt1{
+	position: absolute;
+	right:15px;
+	top: 9px;
+}
+.pt2{
+	height: 240px;
+}
+.pt3{
+	position: absolute;
+	bottom: 10px;
+	right: 15px;
+}
+.pt4{
+	position: absolute;
+	right: 105px;
+	bottom:57px;
+}
+.pt5{
+	background-color:#f0f0f0;
+	height: 30px;
+	position: relative;
+}
+.pt6{
+	position: absolute;
+	left: 5px;
+}
+.pt7{
+	color: #004198;
+	font-weight: bold;
+	position: absolute;
+	left: 40px;
+	top: 0px;
+	font-size: 12px;
+}
+.pt8{
+	position: absolute;
+	left: 40px;
+	bottom: 0px;
+	font-size: 12px;
+}
+.pt9{
+	width: 320px;
+	height: 130px;
+	position: relative;
+}
+.pt10{
+	position: absolute;
+	left: 40px;
+	top: 5px;
+}
+.pt11{
+	position: absolute;
+	left: 40px;
+	bottom: 0px;
+	color: darkgray;
+	font-size: 10px;
+}
+.pt12{
+	position: absolute;
+	right: 15px;
+	bottom: -5px;
+}
+.pf1{
+	width: 320px;
+	height: 60px;
+	position: relative;
+	border-bottom: lightgray solid 1px;
+}
+.pf2{
+	position: absolute;
+	left: 50px;
+	top: -4px;
+}
+.pf3{
+	width:275px;
+	height: 20px;
+	border-bottom: lightgray solid 1px;
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	background-color: #e0e0e0;
+	color: #004198;
+	display: flex;
+	align-items: center;
+}
+.pf4{
+	width:275px;
+	height: 20px;
+	position: absolute;
+	top: 31px;
+	right: 15px;
+	background-color: #e0e0e0;
+	color: #004198;
+	display: flex;
+	align-items: center;
+}
+
